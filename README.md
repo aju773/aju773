@@ -1,8 +1,12 @@
 <p align="center">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=180&section=header&text=Ajith%20V%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40">
+</p>
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Engineer+%E2%80%94+Django+%2B+React;Own+the+stack%3A+data+model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+deployment">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=0969DA&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Engineer+%E2%80%94+Django+%2B+React;Own+the+stack%3A+data+model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+deployment">
-    <img alt="Full-Stack Engineer — Django + React. Own the stack: data model to API to UI to deployment." src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1500&color=0969DA&background=00000000&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Engineer+%E2%80%94+Django+%2B+React;Own+the+stack%3A+data+model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+deployment">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Engineer+%E2%80%94+Django+%2B+React%2C+data+model+to+deploy">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Engineer+%E2%80%94+Django+%2B+React%2C+data+model+to+deploy">
+    <img alt="Full-Stack Engineer — Django + React, data model to deploy" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=0969DA&background=00000000&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Engineer+%E2%80%94+Django+%2B+React%2C+data+model+to+deploy">
   </picture>
 </p>
 
