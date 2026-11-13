@@ -2,7 +2,7 @@
   <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=180&section=header&text=Ajith%20V%20S&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40">
 </p>
 
-<h3 align="center">Full-Stack Engineer — Django + React, data model to deploy</h3>
+<h3 align="center">Full-Stack Engineer who ships to production</h3>
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -11,6 +11,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 
 <p align="center">
