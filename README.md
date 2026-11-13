@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Python, Django, React, TypeScript, PostgreSQL, Docker, GitHub Actions" src="https://skillicons.dev/icons?i=python,django,react,ts,postgres,docker,githubactions&theme=dark">
+  <img alt="Python, Django, React, TypeScript, PostgreSQL, Docker, GitHub Actions, Git, Arch Linux, Claude Code" src="assets/skills.svg">
 </p>
 
 <p align="center">
